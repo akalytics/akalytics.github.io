@@ -1,0 +1,11 @@
+title: Akalytics
+description: Akalytics Docs
+theme: just-the-docs
+
+url: https://akalytics.github.io
+
+aux_links:
+  Github: https://github.com/akalytics
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
